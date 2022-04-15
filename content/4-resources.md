@@ -1,7 +1,6 @@
 ---
-layout: default
+nav_order: 5
 title: Resources
-nav: true
 ---
 
 # Arduino Resources

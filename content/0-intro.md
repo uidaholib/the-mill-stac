@@ -1,10 +1,7 @@
 ---
-layout: default
-title: Intro
-nav: true
+nav_order: 1
+title: Welcome!
 ---
-
-# Welcome!
 
 Welcome to the [University of Idaho Library](https://www.lib.uidaho.edu/)!
 

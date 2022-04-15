@@ -1,10 +1,7 @@
 ---
-layout: default
-title: Explore
-nav: true
+nav_order: 3
+title: Explore the MILL
 ---
-
-# Explore the MILL
 
 We have several short activities to share some of the technology in the MILL:
 

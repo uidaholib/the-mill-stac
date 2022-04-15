@@ -1,10 +1,8 @@
 ---
-layout: default
-title: Arduino
-nav: true
+nav_order: 4
+section_id: Hello Arduino
+title: Microcontrollers, Code, and Simple Circuits
 ---
-
-# Electronics and Code: Hello Arduino!
 
 [Arduino](https://www.arduino.cc/) is an ecosystem of simple, open-source hardware and software components that makes creating interactive [physical computing](https://en.wikipedia.org/wiki/Physical_computing) projects easy.
 Learning about electronics and code is much more fun when you can make lights blink, buzzers buzz, and things move!

@@ -1,7 +1,6 @@
 ---
-layout: default
-title: 3D
-nav: true
+nav_order: 2
+title: 3D Printing and Modeling
 ---
 
 # 3D Printing Introduction
