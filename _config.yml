@@ -43,11 +43,11 @@ content_license_link: https://creativecommons.org/licenses/by-sa/4.0/
 #
 # header-background: 
 # header-text-color: 
-# breadcrumbs-background: 
-# breadcrumbs-text-color: 
-# active-nav-color: 
+breadcrumbs-background: "#009a44"
+breadcrumbs-text-color: "#111"
+active-nav-color: "#1aff7d"
 # link-color:
-# next-button-color:
+next-button-color: "#1aff7d"
 # text-color: 
 # base-font-size:
 
