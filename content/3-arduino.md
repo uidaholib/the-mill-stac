@@ -10,13 +10,7 @@ Learning about electronics and code is much more fun when you can make lights bl
 During this part of the workshop we will build a basic electronic circuit and program an Arduino micro controller. 
 This is an introduction for beginners from all backgrounds, no experience with electronics or coding required!
 
-# Project steps:
-
-0. Introducing [Arduino Uno]({{ 'project/0-uno.html' | relative_url }})
-1. Make it [Blink]({{ 'project/1-code.html' | relative_url }})!
-2. Make it [Buzz]({{ 'project/2-buzz.html' | relative_url }})!
-
-# More Information
+## More Information
 
 [The MILL](http://www.lib.uidaho.edu/mill) provides everything you need for this Arduino project.
 
