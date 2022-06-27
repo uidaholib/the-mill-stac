@@ -57,3 +57,7 @@ The MILL has several simple devices to start exploring the possibilities.
 - take a virtual voyage with Google Street View ([android](https://play.google.com/store/apps/details?id=com.google.android.street&hl=en_US), [iOS](https://apps.apple.com/us/app/google-street-view/id904418768))
 - use Cardboard Camera to create your own VR images ([android](https://play.google.com/store/apps/details?id=com.google.vr.cyclops), [iOS](https://itunes.apple.com/us/app/cardboard-camera/id1095487294))
 - check out [Chrome Experiments](https://vr.chromeexperiments.com/) which demo possibilities you could create yourself using web code!
+
+## Army Man Launcher
+
+Students will be given a set amount of supplies and 30 minutes. Some of the supplies are army man, cup and string. The goal is to take the little army man that students have been given and launch him as far as possible.
